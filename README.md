@@ -2,4 +2,4 @@
 This is my first chrome extension project on jokes app
 
 
-<img width="842" alt="jokes chrome extension" src="https://user-images.githubusercontent.com/74593517/135034213-83c2031c-9ce6-4c49-b1d3-750166054774.png">
+<img width="839" alt="jokes chrome extension" src="https://user-images.githubusercontent.com/74593517/135034389-8d686b70-cbb2-458f-aebf-a5996bf083bd.png">
